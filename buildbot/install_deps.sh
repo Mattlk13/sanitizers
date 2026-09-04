@@ -34,6 +34,7 @@
         binutils \
         bison \
         buildbot-worker \
+        bzip2 \
         ccache \
         cmake \
         clang lld \
